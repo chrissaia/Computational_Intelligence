@@ -1,4 +1,5 @@
 venv
-data/assignment_4_data/train/
+data/assn4_4_data/train/
 data/assignment_4_data/test/
 results/
+data/
